@@ -26,6 +26,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Gustave_Aimard
     - http://en.wikipedia.org/wiki/Gustave_Aimard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42115#The-Trail-HunterA-Tale-of-the-Far-West
 gutenberg_issued: '2013-02-17'
 gutenberg_type: Text
 identifiers:
